@@ -6,6 +6,6 @@ var R = require('ramda');
 var square = function square(x){
     return x*x;
 }
-var square = R.chain(square, [1,2,3,4,5]);
+var squares = R.chain(square, [1,2,3,4,5]);
 
-document.getElementByID('response').innerHTML = squares;
+document.getElementById('response').innerHTML = squares;
