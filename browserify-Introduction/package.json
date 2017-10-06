@@ -1,0 +1,22 @@
+{
+  "name": "browserify-introduction",
+  "version": "1.0.0",
+  "description": "Introduction to browserify using Scotch.io tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prahaladbelavadi/browserify-introduction.git"
+  },
+  "author": "Prahalad Belavadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prahaladbelavadi/browserify-introduction/issues"
+  },
+  "homepage": "https://github.com/prahaladbelavadi/browserify-introduction#readme",
+  "dependencies": {
+    "ramda": "^0.24.1"
+  }
+}
